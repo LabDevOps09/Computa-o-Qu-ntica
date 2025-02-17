@@ -1,2 +1,2 @@
-# Computa-o-Qu-ntica
+# Computação Quântica
 Estudando
