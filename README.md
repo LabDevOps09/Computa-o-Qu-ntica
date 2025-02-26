@@ -20,7 +20,7 @@ Usamos o **StatevectorEstimator** do Qiskit para estimar o estado final do circu
 
 ### 3. **O Neurônio Quântico (QNN)**
 
-Com o circuito quântico e o estimador configurados, criamos um **Neurônio Quântico** (Quantum Neural Network - QNN). O QNN é um tipo de rede neural onde o "neurônio" é um circuito quântico. Ele utiliza as propriedades da computação quântica, como **superposição** e **emaranhamento**, para realizar o aprendizado.
+Com o circuito quântico e o estimador configurados, criei um **Neurônio Quântico** (Quantum Neural Network - QNN). O QNN é um tipo de rede neural onde o "neurônio" é um circuito quântico. Ele utiliza as propriedades da computação quântica, como **superposição** e **emaranhamento**, para realizar o aprendizado.
 
 No caso do nosso código, utilizamos o **EstimatorQNN** para conectar o circuito quântico ao estimador. Isso cria uma rede neural quântica simples, que poderia ser usada como base para tarefas de aprendizado de máquina, como classificação ou regressão.
 
