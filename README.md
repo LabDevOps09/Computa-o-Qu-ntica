@@ -36,7 +36,7 @@ Ao rodar o código, consegue visualizar o circuito, que mostra como as portas es
 
 Esse exemplo é um ponto de partida para explorar mais a fundo as redes neurais quânticas e como elas podem ser aplicadas para resolver problemas complexos com a ajuda da computação quântica.
 
-![cq](https://github.com/user-attachments/assets/163ca347-3edc-489a-900d-50b04781f1e6)
+
 
 
 
