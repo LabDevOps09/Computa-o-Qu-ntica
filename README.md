@@ -1,10 +1,10 @@
-# Computação Quântica - Estudando - fase inicial
+# ⚛️ Computação Quântica - Estudando - fase inicial
 
 # Neurônio Quântico com Qiskit
 
 Neste exemplo, criei um **neurônio quântico** utilizando a biblioteca **Qiskit** e o módulo de **aprendizado de máquina quântico**. Vamos entender o que cada parte do código faz:
 
-### 1. **O Circuito Quântico**
+### 1. **O Circuito Quântico** ⚛️
 
 Criei um circuito quântico simples com **2 qubits**. No circuito, apliquei duas portas principais:
 
@@ -18,7 +18,7 @@ Essas operações transformam o estado inicial dos qubits em uma **superposiçã
 
 Usamos o **StatevectorEstimator** do Qiskit para estimar o estado final do circuito quântico. Ele nos permite calcular o vetor de estado final do sistema quântico após as operações realizadas. O estimador pode ser visto como uma forma de medir o "resultado" do circuito, sem, no entanto, realizar uma medição direta.
 
-### 3. **O Neurônio Quântico (QNN)**
+### 3. **O Neurônio Quântico (QNN)** 🧠
 
 Com o circuito quântico e o estimador configurados, criei um **Neurônio Quântico** (Quantum Neural Network - QNN). O QNN é um tipo de rede neural onde o "neurônio" é um circuito quântico. Ele utiliza as propriedades da computação quântica, como **superposição** e **emaranhamento**, para realizar o aprendizado.
 
