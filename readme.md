@@ -27,34 +27,8 @@ Imagine um sistema de partículas que começa em um estado **indeterminado**. A 
 1. A partícula começa em um estado de superposição (indeterminado).
 2. O observador escolhe qual estado observar (A ou B).
 3. O estado da partícula é alterado de acordo com a escolha do observador, colapsando o estado quântico.
-
-## Exemplo de Código:
-
-Aqui está um exemplo simples de como isso pode ser implementado:
-
-```python
-import random
-
-# Função que representa a partícula em superposição
-def particula_superposicao():
-    # A partícula pode estar em dois estados possíveis, A ou B
-    estados_possiveis = ["A", "B"]
-    return random.choice(estados_possiveis)
-
-# Função que simula a observação
-def observar_particula():
-    # O observador escolhe qual estado observar
-    escolha = input("Escolha um estado para observar (A ou B): ").strip().upper()
-    
-    # Simulação do colapso do estado baseado na escolha
-    if escolha in ["A", "B"]:
-        return escolha
-    else:
-        print("Escolha inválida. A partícula permanece indeterminada.")
-        return "Indeterminado"
-
-# Fluxo do programa
-estado_particula = particula_superposicao()  # Partícula começa em superposição
+   
+Estado_particula = particula_superposicao()  # Partícula começa em superposição
 print("A partícula está em superposição, ela pode estar em:", estado_particula)
 
 # O observador faz a medição
@@ -65,5 +39,6 @@ print(f"O estado final da partícula é: {estado_observado}")
 
 
 
+![quantic](https://github.com/user-attachments/assets/d15b2703-b565-4320-a147-9d05b2db05bc)
 
 
