@@ -14,12 +14,6 @@ Imagine um sistema de partículas que começa em um estado **indeterminado**. A 
 2. **Observação**: A observação ou escolha do "observador" faz com que a partícula se colapse para um estado específico.
 3. **Estado Final**: O estado final da partícula será aquele que o observador escolheu, mas caso o observador faça uma escolha inválida, a partícula permanecerá indeterminada.
 
-### Como o Programa Funciona:
-
-- **Criação da Superposição**: A partícula começa em um estado indeterminado, ou seja, ela pode estar simultaneamente em "A" e "B". Isso reflete a ideia da **superposição quântica**, onde um sistema pode estar em múltiplos estados ao mesmo tempo.
-  
-- **Observação**: O "observador" escolhe um dos estados ("A" ou "B"), e essa escolha colapsa a partícula para o estado escolhido. Esse processo simula o conceito de que o ato de observar ou medir influencia o estado do sistema.
-
 - **Exibição do Estado Final**: Após a observação, o estado final da partícula é mostrado. Se o observador escolher um estado inválido, a partícula permanecerá indeterminada.
 
 ### Fluxo do Programa:
