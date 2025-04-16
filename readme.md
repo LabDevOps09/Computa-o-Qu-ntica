@@ -1,8 +1,8 @@
 # Mentalismo - Conceito da Física Quântica
 
-O conceito de **Mentalismo** na Física Quântica refere-se à ideia de que a **mente** ou a **observação** pode afetar o estado de um sistema. Em termos práticos, podemos criar uma simulação onde a "observação" ou "decisão consciente" de um observador altera o comportamento do sistema.
+O conceito de **Mentalismo** na Física Quântica refere-se à ideia de que a **mente** ou a **observação** pode afetar o estado de um sistema. Em termos práticos, pode se criar uma simulação onde a "observação" ou "decisão consciente" de um observador altera o comportamento do sistema.
 
-Em programação, podemos representar isso com um programa simples onde o estado de um sistema depende da escolha ou da observação de um "observador", refletindo a ideia de que a mente ou decisão de observar altera o comportamento do sistema.
+Em programação, pode representar isso com um programa simples onde o estado de um sistema depende da escolha ou da observação de um "observador", refletindo a ideia de que a mente ou decisão de observar altera o comportamento do sistema.
 
 ## O Conceito
 
