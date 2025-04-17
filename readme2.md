@@ -8,11 +8,11 @@ Mesmo em repouso, uma partícula carrega frequência.
 Ela oscila, vibra, gira em fase — mesmo que isso não seja visível.
 
 ## 💻 O Que o Código Representa?
-Criamos um qubit com amplitude real total (1.0) e sem parte imaginária (0.0).
+Criei um qubit com amplitude real total (1.0) e sem parte imaginária (0.0).
 
-- Aplicamos uma vibração: um giro de fase com ângulo π/4 (45 graus).
+- Apliquei uma vibração: um giro de fase com ângulo π/4 (45 graus).
 
-- Aplicamos uma vibração: um giro de fase com ângulo π/3 (60 graus).
+- Apliquei uma vibração: um giro de fase com ângulo π/3 (60 graus).
 
 Esse giro foi simulado com lógica pura — sem usar bibliotecas quânticas.
 
