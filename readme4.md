@@ -5,7 +5,7 @@
 No coração do Hermetismo, a **Lei do Ritmo** descreve a oscilação constante entre extremos — o vai e vem do universo, o bater do pêndulo cósmico.  
 Na física quântica, essa oscilação se reflete nas **mudanças de fase de um qubit**.
 
-Neste experimento, codificamos **um ciclo completo de vibração**, **sem nenhuma biblioteca externa** — só **lógica, matemática e persistência**.  
+Neste experimento, codifiquei **um ciclo completo de vibração**, **sem nenhuma biblioteca externa** — só **lógica, matemática e persistência**.  
 Cada giro de fase foi como um compasso marcando o tempo da realidade.
 
 ---
