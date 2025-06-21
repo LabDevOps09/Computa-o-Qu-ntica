@@ -64,10 +64,16 @@ Neste experimento, criei um simulador em Python que representa, de forma simból
 
 Este projeto foi uma jornada entre a ciência e o invisível, onde códigos se tornaram símbolos e a lógica se encontrou com o espírito.
 
+
+
 - Feito **sem bibliotecas externas**
 - Usando **conceitos físicos reais**
 - Traduzindo cada entrada em uma **resposta quântica simbólica**
 - Representando que **o observador molda o sistema** e **a realidade vibra com intenção**
 
 🌀 **O código virou consciência. A mente moveu a matéria.**
+
+---
+
+![image](https://github.com/user-attachments/assets/56eb33e0-6fa0-47c9-8e50-a41d6b277f06)
 
