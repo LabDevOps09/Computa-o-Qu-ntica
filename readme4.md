@@ -19,13 +19,31 @@ Cada giro de fase foi como um compasso marcando o tempo da realidade.
 
 ---
 
+![image](https://github.com/user-attachments/assets/9d6ee9b6-2b1a-436d-8794-413a2aaf0216)
+
+
+---
+
+![image](https://github.com/user-attachments/assets/45b012dc-b545-4071-a9d0-a0ddee52bb40)
+
+
+---
+
+
+
 ## ⚙️ Etapas do Ritmo em Código
 
 ### 🔵 Estado inicial:
 ```python
 {'amplitude_real': 1.0, 'amplitude_imaginaria': 0.0, 'fase': 0}
 
-![q](https://github.com/user-attachments/assets/935dc486-54a8-46f7-9a53-5b6eb23f9c02)
+
+
+
+
+
+
+
 
 
 
